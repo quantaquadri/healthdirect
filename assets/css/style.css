@@ -2,7 +2,7 @@
 
 
 html {height:100%;}
-body{font-family: 'Fira Sans', sans-serif;font-size:0.875rem;color:#666;background-color:#fafafa;overflow-x: hidden;height:100%;}
+body{font-family: 'Nunito', sans-serif;font-size:0.875rem;color:#666;background-color:#fafafa;overflow-x: hidden;height:100%;}
 h1, h2, h3, h4, h5, h6{margin-top:0;}
 h1, .h1 {font-size: 2.25rem;}
 h2, .h2 {font-size: 1.875rem;}
@@ -782,8 +782,8 @@ transform-origin: left top;transition: 240ms;left: 12px;top: -8px;z-index: 1;col
 .calendar {float: left;margin-bottom: 0;}
 .fc-view {margin-top: 30px;}
 .none-border .modal-footer {border-top: none;}
-.fc-toolbar h2 {font-size: 18px;font-weight: 600;font-family: 'Fira Sans', sans-serif;line-height: 30px;text-transform: uppercase;}
-.fc-day-grid-event .fc-time {font-family: 'Fira Sans', sans-serif;}
+.fc-toolbar h2 {font-size: 18px;font-weight: 600;font-family: 'Nunito', sans-serif;line-height: 30px;text-transform: uppercase;}
+.fc-day-grid-event .fc-time {font-family: 'Nunito', sans-serif;}
 .fc-day {background: #fff;}
 .fc-toolbar .fc-state-active,
 .fc-toolbar .ui-state-active,
@@ -808,8 +808,8 @@ transform-origin: left top;transition: 240ms;left: 12px;top: -8px;z-index: 1;col
 .fc-cell-overlay {background: #f0f0f0;}
 .fc-unthemed .fc-today {background: #fff;}
 .fc-event {border-radius: 2px;border: none;cursor: move;font-size: 13px;margin: 1px 7px;padding: 5px 5px;text-align: center;}
-.fc-basic-view td.fc-week-number span {padding-right: 8px;font-weight: 700;font-family: 'Fira Sans', sans-serif;}
-.fc-basic-view td.fc-day-number {padding-right: 8px;font-weight: 700;font-family: 'Fira Sans', sans-serif;}
+.fc-basic-view td.fc-week-number span {padding-right: 8px;font-weight: 700;font-family: 'Nunito', sans-serif;}
+.fc-basic-view td.fc-day-number {padding-right: 8px;font-weight: 700;font-family: 'Nunito', sans-serif;}
 
 /*------------------------------------------------------------------
 [21. Profile]
