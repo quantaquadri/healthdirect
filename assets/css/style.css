@@ -389,7 +389,7 @@ textarea.form-control {height: auto;}
 .account-box .form-control {border: 1px solid #e7e7e7;height: 50px;}
 .account-box label {color: #7f8fa4;font-size: 16px;font-weight: normal;}
 .account-logo img {
-    max-height: 80px;
+    max-height: 100px;
     width: auto;
 }
 .dash-widget-bg1{width:65px;float:left;color: #fff;
